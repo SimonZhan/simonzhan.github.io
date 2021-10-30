@@ -15,7 +15,7 @@ I have spent two years researching on novel sensing and new fabrication and have
 
 I also have research experience in Formal verification on complex cyber-physical system(CPS) and Hybrid System(HS) under Professor [Bohua Zhan](https://lcs.ios.ac.cn/~bzhan/) supervision.
 
-My work in details can be seen in [project](/profolio) section, and paper can be seen in [publications](/publications) section. 
+My work in details can be seen in [project](/portfolio) section, and paper can be seen in [publications](/publications) section. 
 
 For more about me, you can check my [CV][/files/CV_Simon_Zhan.pdf].
 
