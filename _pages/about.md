@@ -13,7 +13,7 @@ Hi there! This is Simon Zhan, a senior studying computer science and applied mat
 
 I have spent two years researching on novel sensing and new fabrication and have been advised by Professor [Bjoern Hartmann](https://people.eecs.berkeley.edu/~bjoern/?_ga=2.188521320.1596352881.1635183757-1933119831.1603184178), Professor [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/), and Professor [Teng Han](http://teng-han.com/).
 
-I also have research experience in Formal verification on complex cyber-physical system(CPS) and Hybrid System(HS) under Professor [Bohua Zhan](https://lcs.ios.ac.cn/~bzhan/) supervision.
+I also have research experience in Formal verification on complex cyber-physical system(CPS) and Hybrid System(HS) under Professor [Bohua Zhan](https://scholar.google.de/citations?user=siArm5kAAAAJ&hl=en) supervision.
 
 My work in details can be seen in [project](/portfolio) section, and paper can be seen in [publications](/publications) section. 
 
