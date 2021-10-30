@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 [Project Code-Hub](https://gitee.com/bhzhan/mars)
-Previous Papers on verification and code generation. [Paper1](/files/Zou et al. - 2013 - Verifying Simulink diagrams via a Hybrid Hoare Log.pdf),[Paper2](/files/Zou et al. - 2015 - Formal Verification of SimulinkStateflow Diagrams.pdf) 
+Previous Papers on verification and code generation. [Paper1](/files/simulink.pdf),[Paper2](/files/stateflow.pdf) 
