@@ -15,4 +15,4 @@ by VR pen input and grip postures.<br/><img src='/images/pose.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Video](http://nianlongl.com/publication/chi2020-vrpen/chi20c-sub7836-cam-i19.mp4)
