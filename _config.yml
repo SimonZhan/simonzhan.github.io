@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-157868305-1"
 
 
 # Site Author
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uO4dG0wAAAAJ&hl=en"
-  email            : simonzhan@berkeley.edu
+  email            : simonzhan at berkeley dot edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/SimonZhan-code"
+  github           : SimonZhan-code
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/sinongzhan/"
+  instagram        : sinongzhan
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/simon-zhan-4a7b13172/"
+  linkedin         : simon-zhan
   orcid            : 
   pinterest        :
   soundcloud       :
