@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Simon Zhan"
   avatar           : "profile.jpeg"
-  bio              : "I'm a senior studying CS and Applied Math at UC Berkeley"
+  bio              : "Senior studying CS and Applied Math at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uO4dG0wAAAAJ&hl=en"
-  email            : simonzhan at berkeley dot edu
+  email            : simonzhan@berkeley.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : SimonZhan-code
+  github           : "github.com/SimonZhan-code/"
   google_plus      :
   keybase          :
-  instagram        : sinongzhan
+  instagram        : "https://www.instagram.com/sinongzhan/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : simon-zhan
+  linkedin         : "https://www.linkedin.com/in/simon-zhan-4a7b13172/"
   orcid            : 
   pinterest        :
   soundcloud       :
