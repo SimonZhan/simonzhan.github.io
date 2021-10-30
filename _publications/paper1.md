@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper1
 excerpt: 'This paper is about a low-cost flexible thin-film sticker, created based on optical sensing, that can be attached to the LED icons or LCD display of the legacy devices or even the surface or moving parts of non-electronic furniture to sense and communicate their status of use.'
 date: 2022-05-04
-venue: 'Under Review for CHI 2022'
+venue: 'Under Review'
 paperurl: 'http://simonzhan.github.io/files/paper2.pdf'
 citation: 'Under Review. &quot;LightSticker: Enabling Pervasive Light Emission Detection for Smart IoT Applications.&quot; <i>ACM CHI 2022</i>. 1(2).'
 ---
