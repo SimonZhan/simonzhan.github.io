@@ -1,7 +1,7 @@
 ---
 title: "RElectrode: A Reconfigurable Electrode For Multi-Purpose Sensing Based on Microfluidics"
 collection: publications
-permalink: /publication/paper3
+permalink: /publication/RElectrode
 excerpt: 'This paper is about a reconfigurable electrode, RElectrode, using a microfluidic technique that can change the geometry and material properties of the electrode to satisfy the needs for sensing a variety of different types of user input through touch/touchless gestures, pressure, temperature, and distinguish between different types of objects or liquids.'
 date: 2021-05-04
 venue: 'CHI 2021'
