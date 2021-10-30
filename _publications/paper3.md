@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 ---
 This paper is about a reconfigurable electrode, RElectrode, using a microfluidic technique that can change the geometry and material properties of the electrode to satisfy the needs for sensing a variety of different types of user input through touch/touchless gestures, pressure, temperature, and distinguish between different types of objects or liquids. Unlike the existing approaches, which depend on the specific-shaped electrode for particular sensing (e.g., coil for inductive sensing), RElectrode enables capacity, inductance, resistance/pressure, temperature, pH sensings all in a single package. We demonstrate the design and fabrication of the microfluidic structure of our RElectrode, evaluate its sensing performance through several studies, and provide some unique applications. RElectrode demonstrates technical feasibility and application values of integrating physical and biochemical properties of microfluidics into novel sensing interfaces.
 
-[Download paper here](http://simonzhan.github.io/files/paper3.pdf)
+[Download paper here](https://drive.google.com/file/d/1tn24B2l3SeQfNEY9n9CwbEFcgVVhNFqH/view?usp=sharing)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
