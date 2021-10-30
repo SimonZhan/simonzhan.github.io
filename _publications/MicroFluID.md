@@ -1,10 +1,10 @@
 ---
 title: "MicroFluID - A Reconfigurable RFID Platform for Robust Interaction Sensing Based on Microfluidics"
 collection: publications
-permalink: /publication/paper2
+permalink: /publication/MicroFluID
 excerpt: 'This paper is about an RFID-based user activity and gesture recognition system, which informs the input state of an RFID tag using variable ID information, surpassing the burden of existing machine learning methods. An antenna developed on a flexible substrate is associated with multiple RFID chips.'
 date: 2022-05-04
-venue: 'Under Review for CHI 2022'
+venue: 'Under Review'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
