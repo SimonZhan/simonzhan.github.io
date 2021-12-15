@@ -1,6 +1,6 @@
 ---
 title: "Geocentric"
-excerpt: "Extending the idea of cooperative robots, this project will utilize robot cars to create a simulation of the movements of a planet and its satellite, like the Earth and the Moon. We will have a robot car representing the Earth, and another robot car representing the Moon. We can also describe this project as controlling robot car A using BLE, and having robot car B rotating around A from detecting A’s movements using sensors.<br/><img src='/images/pose.png'>"
+excerpt: "Extending the idea of cooperative robots, this project will utilize robot cars to create a simulation of the movements of a planet and its satellite, like the Earth and the Moon. We will have a robot car representing the Earth, and another robot car representing the Moon. We can also describe this project as controlling robot car A using BLE, and having robot car B rotating around A from detecting A’s movements using sensors.<br/><img src='/images/poster.png'>"
 collection: portfolio
 ---
 
