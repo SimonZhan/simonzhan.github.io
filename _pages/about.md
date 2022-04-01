@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! This is Simon Zhan, a senior studying Computer Science and Applied Mathematics. I‘m intertested in Cyber Physical Social System and safe autonomy, building trusted systems. I'm also broadly interested in Ubiquitous Computing and Human Factor. 
+Hi there! This is Simon Zhan, a senior studying Computer Science and Applied Mathematics. I‘m intertested in Cyber Physical Social System and safe autonomy, and system verification. I'm also broadly interested in Ubiquitous Computing and Human Factor. 
 
-I have researched on novel sensing and new fabrication for two years and have been advised by Professor [Bjoern Hartmann](https://people.eecs.berkeley.edu/~bjoern/?_ga=2.188521320.1596352881.1635183757-1933119831.1603184178), Professor [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/), Professor [Teng Han](http://teng-han.com/), and Professor [Feng Tian](https://lcs.ios.ac.cn/~fengt/).
+Currently, I'm closely working with Professor [Qi Zhu](http://zhulab.eecs.northwestern.edu/) in global and local robustness analysis on learning-based systems. 
 
-I also have research experience in Formal Verification on complex cyber-physical system under supervision of Professor [Naijun Zhan](https://lcs.ios.ac.cn/~znj/) and Professor [Bohua Zhan](https://scholar.google.de/citations?user=siArm5kAAAAJ&hl=en).
+I have researched on novel sensing and new fabrication for two years and have been advised by Professor [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/), Professor [Teng Han](http://teng-han.com/), and Professor [Feng Tian](https://lcs.ios.ac.cn/~fengt/).
+
+I also have research experience in Formal Verification on complex cyber-physical system in Professor [Naijun Zhan](https://lcs.ios.ac.cn/~znj/) supervised by Professor [Bohua Zhan](https://scholar.google.de/citations?user=siArm5kAAAAJ&hl=en).
 
 My work in details can be seen in [project](/portfolio) section, and paper can be seen in [publications](/publications) section. 
 
