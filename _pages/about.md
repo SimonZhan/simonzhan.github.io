@@ -14,7 +14,7 @@ Currently, I'm closely working with Professor [Qi Zhu](http://zhulab.eecs.northw
 
 I have researched on novel sensing and new fabrication for two years and have been advised by Professor [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/), Professor [Teng Han](http://teng-han.com/), and Professor [Feng Tian](https://lcs.ios.ac.cn/~fengt/).
 
-I also have research experience in Formal Verification on complex cyber-physical system in Professor [Naijun Zhan](https://lcs.ios.ac.cn/~znj/) supervised by Professor [Bohua Zhan](https://scholar.google.de/citations?user=siArm5kAAAAJ&hl=en).
+I also have research experience in Formal Verification on complex cyber-physical system in Professor [Naijun Zhan](https://lcs.ios.ac.cn/~znj/) group, supervised by Professor [Bohua Zhan](https://scholar.google.de/citations?user=siArm5kAAAAJ&hl=en).
 
 My work in details can be seen in [project](/portfolio) section, and paper can be seen in [publications](/publications) section. 
 
