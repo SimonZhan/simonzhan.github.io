@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simon Zhan"
 title_separator          : "-"
 name                     : &name "Simon Zhan"
-description              : &description "looking for phd position"
+description              : &description "Stay alive and Prosperous"
 url                      : https://simonzhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SimonZhan/simonzhan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Simon Zhan"
   avatar           : "profile1.jpeg"
-  bio              : "Senior studying CS and Applied Math at UC Berkeley"
+  bio              : "Junior studying CS and Applied Math at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : 
