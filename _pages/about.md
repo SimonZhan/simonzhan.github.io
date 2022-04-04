@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! This is Simon Zhan, a senior studying Computer Science and Applied Mathematics. I‘m intertested in Cyber Physical Social System and safe autonomy, and system verification. I'm also broadly interested in Ubiquitous Computing and Human Factor. 
+Hi there! This is Simon Zhan, studying Computer Science and Applied Mathematics in UC Berkeley. I‘m intertested in Cyber Physical Social System and safe autonomy, and system verification. I'm also broadly interested in Ubiquitous Computing and Human Factor. 
 
 Currently, I'm closely working with Professor [Qi Zhu](http://zhulab.eecs.northwestern.edu/) in global and local robustness analysis on learning-based systems. 
 
