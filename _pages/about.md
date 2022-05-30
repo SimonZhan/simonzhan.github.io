@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! This is Simon Zhan, studying Computer Science and Applied Mathematics in UC Berkeley. I‘m intertested in Cyber Physical Social System and safe autonomy, and system verification. I'm also broadly interested in Ubiquitous Computing and Human Factor. 
+Hi there! This is Simon Zhan, studying Computer Science and Applied Mathematics in UC Berkeley. I‘m intertested in Cyber Physical Social System and safe autonomy, and neural certificate. I'm also broadly interested in Ubiquitous Computing and Human Factor. 
 
-Currently, I'm closely working with Professor [Qi Zhu](http://zhulab.eecs.northwestern.edu/) in global and local robustness analysis on learning-based systems. 
+Currently, I'm working on [Project LOGiCS](https://logics.design/#), advised by [Prof.Sanjit Seshia](http://people.eecs.berkeley.edu/~sseshia/)
 
-I have researched on novel sensing and new fabrication for two years and have been advised by Professor [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/), Professor [Teng Han](http://teng-han.com/), and Professor [Feng Tian](https://lcs.ios.ac.cn/~fengt/).
+I'm closely working with Professor [Chao Huang](https://chaohuang2018.github.io/main/) and Professor [Qi Zhu](http://zhulab.eecs.northwestern.edu/) in neural certificates. 
+
+Before, I have research experience on novel sensing and new fabrication for two years, advised by Professor [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/), Professor [Teng Han](http://teng-han.com/), and Professor [Feng Tian](https://lcs.ios.ac.cn/~fengt/).
 
 I also have research experience in Formal Verification on complex cyber-physical system in Professor [Naijun Zhan](https://lcs.ios.ac.cn/~znj/) group, supervised by Professor [Bohua Zhan](https://scholar.google.de/citations?user=siArm5kAAAAJ&hl=en).
 
