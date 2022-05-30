@@ -16,8 +16,6 @@ I'm also working closely with [Prof.Chao Huang](https://chaohuang2018.github.io/
 
 Before, I have research experience on novel sensing and new fabrication for two years, advised by Professor [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/), Professor [Teng Han](http://teng-han.com/), and Professor [Feng Tian](https://lcs.ios.ac.cn/~fengt/).
 
-I also have research experience in Formal Verification on complex cyber-physical system in Professor [Naijun Zhan](https://lcs.ios.ac.cn/~znj/) group, supervised by Professor [Bohua Zhan](https://scholar.google.de/citations?user=siArm5kAAAAJ&hl=en).
-
 My work in details can be seen in [project](/portfolio) section, and paper can be seen in [publications](/publications) section. 
 
 For more about me, you can check my [CV](/files/CV_Simon_Zhan.pdf).
