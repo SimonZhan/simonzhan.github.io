@@ -12,7 +12,7 @@ Hi there! This is Simon Zhan, studying Computer Science and Applied Mathematics 
 
 Currently, I'm working on [Project LOGiCS](https://logics.design/#), advised by [Prof.Sanjit Seshia](http://people.eecs.berkeley.edu/~sseshia/).
 
-I'm also working closely with [Prof.Chao Huang](https://chaohuang2018.github.io/main/) and [Prof.Qi Zhu](http://zhulab.eecs.northwestern.edu/) in neural certificates generation. 
+I'm also working closely with [Prof.Chao Huang](https://chaohuang2018.github.io/main/) and [Prof.Qi Zhu](http://zhulab.eecs.northwestern.edu/) on neural certificates generation and learning-based system robustness. 
 
 Before, I have research experience on novel sensing and new fabrication for two years, advised by Professor [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/), Professor [Teng Han](http://teng-han.com/), and Professor [Feng Tian](https://lcs.ios.ac.cn/~fengt/).
 
