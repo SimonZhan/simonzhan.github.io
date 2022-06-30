@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! This is Simon Zhan, studying Computer Science and Applied Mathematics in UC Berkeley. I‘m intertested in Cyber Physical Social System and safe autonomy, and neural certificate. I'm also broadly interested in Ubiquitous Computing and Human Factor. 
+Hi there! This is Simon Zhan, studying Computer Science and Applied Mathematics in UC Berkeley. I‘m intertested in Cyber Physical System, Verification of Autonomous System, and Formal Method. I'm also broadly interested in Ubiquitous Computing and Human Factor. 
 
 Currently, I'm working on [Project LOGiCS](https://logics.design/#), advised by [Prof.Sanjit Seshia](http://people.eecs.berkeley.edu/~sseshia/).
 
-I'm also working closely with [Prof.Chao Huang](https://chaohuang2018.github.io/main/) and [Prof.Qi Zhu](http://zhulab.eecs.northwestern.edu/) on neural certificates generation and learning-based system robustness. 
+I'm also working closely with [Prof.Chao Huang](https://chaohuang2018.github.io/main/) and [Prof.Qi Zhu](http://zhulab.eecs.northwestern.edu/) on neural certificates generation and learning-based system robustness analysis. 
 
 Before, I have research experience on novel sensing and new fabrication for two years, advised by Professor [Xing-Dong Yang](https://www.cs.dartmouth.edu/~xingdong/), Professor [Teng Han](http://teng-han.com/), and Professor [Feng Tian](https://lcs.ios.ac.cn/~fengt/).
 
